@@ -1,5 +1,5 @@
-Brad Traversy\
-# MERN-Stack-From-Scratch\
+Brad Traversy
+# MERN-Stack-From-Scratch
 \
 1.Welcome To The Course <https://youtu.be/X1hvog6dUdo>\
 2.Course Project Intro <https://youtu.be/CGCu5j4Zk1I>\
