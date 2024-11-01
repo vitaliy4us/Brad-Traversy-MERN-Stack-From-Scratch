@@ -1,9 +1,9 @@
 Brad Traversy
 # MERN-Stack-From-Scratch
 
-1.Welcome To The Course <https://youtu.be/X1hvog6dUdo>
-2.Course Project Intro <https://youtu.be/CGCu5j4Zk1I>
-3.ProShop Code Repo <https://youtu.be/b0cm7IWB0iU>
+1\.Welcome To The Course <https://youtu.be/X1hvog6dUdo>
+2\.Course Project Intro <https://youtu.be/CGCu5j4Zk1I>
+3\.ProShop Code Repo <https://youtu.be/b0cm7IWB0iU>
 4.Premium Docs <https://youtu.be/uBmOck4mAr4>
 5.Getting Setup <https://youtu.be/PuIzYUSsp3Y>
 6.Create React App & Git Setup <https://youtu.be/C0nauCxlGCI>
